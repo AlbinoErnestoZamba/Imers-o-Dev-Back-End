@@ -1,0 +1,7 @@
+AIzaSyDJt3s6xaZJlOWZuiYCABMhjt4l2WISNgo
+
+senha do MongoDB
+Azamba
+hksLgCso836xuv1T
+
+mongodb+srv://Azamba12:hksLgCso836xuv1T@cluster0.q68ga.mongodb.net/
